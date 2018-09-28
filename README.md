@@ -1,6 +1,6 @@
 # mall
 
-> A Vue.js project
+> 	基于vue构建的商城，（webpack + vue-cli(脚手架) + vue2.0 + vuex + vue-router + axios + polyfill + lazyload + flexible + jsBridge + mint-ui + fastClick）
 
 ## Build Setup
 
